@@ -36,7 +36,7 @@ in-person, and participate, to pass the course. There are a few reasons for this
 policy and this particular number:
 
 1. Without _any_ incentive, it's too easy to decide that attending isn't worth
-the effort of commuting, putting on pants, etc, and that you can learn just as
+the effort of commuting, putting on shoes, etc, and that you can learn just as
 well by watching the podcast after the fact or participating remotely. I don't
 believe this is uniformly true, and I want people to at least get exposed to the
 value of being part of an in-person community.
