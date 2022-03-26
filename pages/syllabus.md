@@ -31,9 +31,9 @@ There are several components to the course:
 ### Lectures
 
 The course has lecture each Tuesday and Thursday in Center 214, 20 total. Some
-attendance and participation is required – you have to come to 8 lectures
-in-person, and participate, to pass the course. There are a few reasons for this
-policy and this particular number:
+attendance and participation is required – **you have to come to 8 lectures
+in-person, and participate, to pass the course**. There are a few reasons for
+this policy and this particular number:
 
 1. Without _any_ incentive, it's too easy to decide that attending isn't worth
 the effort of commuting, putting on shoes, etc, and that you can learn just as
