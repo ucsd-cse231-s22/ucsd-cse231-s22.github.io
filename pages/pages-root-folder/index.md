@@ -23,7 +23,7 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: true
-title: "Software Tools & Techniques Lab (UCSD CSE15L)"
+title: "Advanced Compiler Design (UCSD CSE231)"
 ---
 
 Joe Gibbs Politz - <code>jpolitz@eng.ucsd.edu</code> -  [jpolitz.github.io](https://jpolitz.github.io)
@@ -35,31 +35,27 @@ Joe Gibbs Politz - <code>jpolitz@eng.ucsd.edu</code> -  [jpolitz.github.io](http
     <li class="{% if post.current %}current{% else %}gray{% endif %}">
     <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     <ul>
+    <li>Readings
+    <ul>
+      {% for reading in post.readings %}
+      <li><a href="{{ reading.url }}">{{ reading.name }}</a></li>
+      {% endfor %}
+    </ul>
+    </li>
+    <li>Due Dates
+    <ul>
       {% for todo in post.todos %}
       <li><a href="{{ todo.url }}">{{ todo.name }}</a> - Due {{ todo.due-date }}</li>
       {% endfor %}
     </ul>
-    
+    </li>
+    </ul>
     </li>
     {% endfor %}
 </ul>
 
 ## Course Calendar
 
-This calendar shows rooms for scheduled in-person lecture and lab meetings.
+This calendar shows rooms for scheduled in-person lecture and office hours.
 
-Visit Canvas to see Zoom links for remote sessions in the first two weeks.
-
-<iframe src="https://calendar.google.com/calendar/embed?src=c_qr732udb46jbievpbp102ekjmc%40group.calendar.google.com&ctz=America%2FLos_Angeles&mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-## Frequently Asked Questions
-
-For now, this page is a placeholder and holds frequently asked questions about
-the course. This site will switch to containing the official course website and
-syllabus at the start of winter quarter (early January 2022).
-
-
-**Q: Will the course have remote options?**
-
-Yes. The course will have remote lab options for the duration of the quarter.
-There will be in-person lab options starting week 5.
+<iframe src="https://calendar.google.com/calendar/embed?src=c_7e2gtpsag8juqtr68d7khv0940%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

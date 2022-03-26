@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'UCSD CSE15L W22'
+title: 'UCSD CSE231 S22'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'Software Tools & Techniques'
@@ -25,7 +25,7 @@ author: joe
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://ucsd-cse15l-w22.github.io'
+url: 'https://ucsd-cse231-s22.github.io'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -38,7 +38,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://ucsd-cse15l-w22.github.io/images/'
+urlimg: 'https://ucsd-cse231-s22.github.io/images/'
 
 
 # Logo size is 600x80 pixels

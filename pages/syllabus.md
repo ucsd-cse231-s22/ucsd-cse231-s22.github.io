@@ -19,110 +19,82 @@ header: no
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-Some of these policies are provisional due to the first 2 weeks of class being
-remote. Check this page in week 2 (around January 12th) for updates regarding
-week 3 and beyond.
-
-## Announcements
-
-We will announce important events in the course through Piazza. You must have a
-Piazza account and be able to receive notifications through Piazza or check it
-daily.
-
-You can join our Piazza course here: [https://piazza.com/ucsd/winter2022/cse15l](https://piazza.com/ucsd/winter2022/cse15l)
-
 ## Course Components {#components}
 
 There are several components to the course:
 
-- **Lab sessions**
-- **Lecture sessions & weekly quizzes**
-- **Lab reports/portfolio posts**
-- **Skill demonstrations**
+- **Lectures**
+- **Quizzes**
+- **Assignments** (first half of the course)
+- **Projects** (second half of the course)
 
-### Labs
+### Lectures
 
-The course's lab component is the **main part** of the course, which meets for 2
-hours on Wednesdays or Thursdays. In each lab you'll switch between working on
-your own, working in pairs, and participating in group discussions about your
-approach, lessons learned, programming problems, and so on.
+The course has lecture each Tuesday and Thursday in Center 214, 20 total. Some
+attendance and participation is required – you have to come to 8 lectures
+in-person, and participate, to pass the course. There are a few reasons for this
+policy and this particular number:
 
-The lab sessions and groups will be led by TAs and tutors, who will note your
-participation in these discussions for credit.
+1. Without _any_ incentive, it's too easy to decide that attending isn't worth
+the effort of commuting, putting on pants, etc, and that you can learn just as
+well by watching the podcast after the fact or participating remotely. I don't
+believe this is uniformly true, and I want people to at least get exposed to the
+value of being part of an in-person community.
 
-### Lecture Sessions & Weekly Quizzes
+2. Lectures will be designed for you to engage and discuss with your classmates
+via [peer instruction](https://en.wikipedia.org/wiki/Peer_instruction) and other
+active learning methods. Research shows convincing evidence that these are
+effective ways to learn!
 
-Lecture sessions are on Monday and Wednesday. You can attend any of the three
-lecture sessions on each day. In the first two weeks they will be held via Zoom.
-In following weeks they will be held in the normally scheduled lecture halls,
-and recorded via Zoom. Lecture attendance is optional.
+3. I don't want you or us to have to do complex logistics around you being sick,
+traveling for a conference or interview, etc. Also, being physically present is
+an investment of time, and a lot of us are living somewhat hybrid lives still.
+It will take some time to adjust back to in-person activities. I want to respect
+that, and I also want to respect the choices of students who feel they learn
+best remotely.
 
-Each week there will be an online, untimed, multiple-tries quiz due on
-_Wednesday morning_ (including week 1). The purpose of this quiz is to make sure
-everyone has checked in on the concepts we will be using in lab on Wednesday and
-Thursday.
+    As a result, I settled on 8 and I am **firm** on this requirement. This is
+    the only policy for extenuating circumstances, travel, sickness, etc.
+    Please plan to attend more than 8 so that you give yourself a fair amount of
+    slack, and front-load your attendance as much as possible to avoid later
+    surprises. You might even find that you like coming to class!
 
-The lecture setup is roughly that on Monday we will introduce the topics and any
-reading about the quiz material, then Wednesday we will review the quiz
-in class and take additional questions.
+Mechanically, this means that you'll need an iClicker to click into live quiz
+questions that happen during class, which is how we'll gauge participation. You
+don't have to get the questions right! There will be app options that you can
+use on a mobile device instead of purchasing a clicker, but these are subject to
+WiFi connectivity and not always supported. We highly recommend that you get an
+iClicker at the UCSD Bookstore to bring to class.
 
-### Lab Reports/Portfolio Posts
+Each lecture will also be streamed over Zoom and recorded. There will be course
+staff both in the room physically and on a live chat to answer questions and
+facilitate discussions during lecture. Attending on Zoom **does not** count
+towards 8 required attendances.
 
-Every _two_ weeks, you will write a lab report on work from the previous two
-weeks, due on Fridays. This will take the form of a blog post on a personal site
-you will create in the second week of the course. At the end of the quarter this
-means you'll have a personal web site with 5 posts detailing what you learned.
-Some lab reports can be completed with a partner; individual assignments will
-indicate which ones.
+## Weekly Quizzes
 
-For each post, our staff will review it and either give full credit or give
-feedback; you must respond to the feedback to receive full credit on your post.
-We'll post specific final deadlines for this feedback
+Each week (after the first) there will be a _lecture quiz_ that reviews the
+content from the previous week. These will be due on _Monday evening_. They will
+be administered on Gradescope. You can submit as many times as you like and will
+get immediate feedback on the correctness of your answers.
 
-### Skill Demonstrations
+They will reference the readings given each week, as well as content from
+lectures. They may involve downloading and running code to get expected output
+from a program or other nontrivial tasks, so leave some time for them.
 
-Twice during the quarter (week 5 and week 9) you you will record a screencast of
-yourself demonstrating some of the skills you learned. This takes the place of
-in-person midterm exams. We will grade these screencasts and give feedback on if
-they correctly demonstrated what we were looking for.
+## Assignments
 
-Then, in place of the final exam, you can re-do one or both of these
-demonstrations if you missed credit on them to make up the missed credit. The
-final exam may not be exacly the same tasks, but will be similar.
+For the first 4-5 weeks of the course, we will have a weekly _programming
+assignment_. These will involve you writing a compiler according to some
+specification that we provide, and submitting on Gradescope. You'll get a mix of
+automated and manual feedback from us. For some assignments we may also do _peer
+review_, where your classmates give feedback on your work (and you give feedback
+to them).
 
-## Grading {#grading}
+## Projects
 
-Each component of the course has a minimum achievement level to get an A, B, or
-C in the course. You must reach that achievement level in _all_ of the
-categories to get an A, B, or C. Pluses and minuses will be given around the
-boundaries of these categories at the instructor's discretion.
+For the last 5-6 weeks of the course, you'll work on _projects_.
 
-- **A** achievement:
-    - 8 or more lab participation
-    - All quizzes complete and correct, no more than 3 late
-    - All 5 lab reports complete with full credit/feedback addressed
-    - Full score on both skill demonstrations (either initially or with the
-    final make-up)
-- **B** achievement:
-    - 7 or more lab participation
-    - 9/10 quizzes complete and correct, no more than 3 late
-    - All 5 lab reports submitted, 4 with full credit/feedback addressed
-    - Full score on both skill demonstrations (either initially or with the
-    final make-up)
-- **C** achievement:
-    - 6 or more lab participation
-    - 8/10 quizzes complete and correct, no more than 3 late
-    - At least 4 lab reports submitted, 3 with full credit/feedback addressed
-    - Full score on one skill demonstrations, both submitted (either initially
-    or with the final make-up)
-
-## Consent to Participate in Educational Research
-
-You can download a copy of the form below
-[here](https://docs.google.com/document/d/14HNe2U5-oBXtWgNKqNpTkhPiBjEhnlOKX2DJfBhnOO8/)
-if you need a copy to fill out.
-
-<iframe width="100%" height="800px" src="https://docs.google.com/document/d/e/2PACX-1vSssZh6Sb22jt0dKnwc2NHG7wKPCE1Ehi-o2QdJUd9c1MZjY_1AvcIrH-a2tTIcHEROGfGFJhNfJAjW/pub?embedded=true"></iframe>
 
 
 </div>
