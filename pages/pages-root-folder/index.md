@@ -26,7 +26,13 @@ homepage: true
 title: "Advanced Compiler Design (UCSD CSE231)"
 ---
 
-Joe Gibbs Politz - <code>jpolitz@eng.ucsd.edu</code> -  [jpolitz.github.io](https://jpolitz.github.io)
+**Prof**: Joe Gibbs Politz - <code>jpolitz@eng.ucsd.edu</code> -  [jpolitz.github.io](https://jpolitz.github.io)
+
+**Staff**:
+
+- Yousef Alhessi
+- Kamran Alipour
+- Vignesh Gokul
 
 ## Material and Schedule
 
