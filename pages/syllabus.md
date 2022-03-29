@@ -19,8 +19,6 @@ header: no
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-## Course Components {#components}
-
 There are several components to the course:
 
 - **Lectures**
@@ -28,7 +26,7 @@ There are several components to the course:
 - **Assignments** (first half of the course)
 - **Projects** (second half of the course)
 
-### Lectures
+## Lectures
 
 The course has lecture each Tuesday and Thursday in Center 214, 20 total. Some
 attendance and participation is required – **you have to come to 8 lectures
@@ -73,28 +71,71 @@ towards 8 required attendances.
 
 ## Weekly Quizzes
 
-Each week (after the first) there will be a _lecture quiz_ that reviews the
-content from the previous week. These will be due on _Monday evening_. They will
-be administered on Gradescope. You can submit as many times as you like and will
-get immediate feedback on the correctness of your answers.
+Each week there will be a _lecture quiz_ that reviews the content from the
+previous week. These will be due on _Friday evening_. They will be administered
+on Gradescope. You can submit as many times as you like and will get immediate
+feedback on the correctness of your answers.
 
-They will reference the readings given each week, as well as content from
-lectures. They may involve downloading and running code to get expected output
-from a program or other nontrivial tasks, so leave some time for them.
+The quizzes will reference the readings given each week, as well as content from
+lectures. They may also involve downloading and running code to get expected
+output from a program or other nontrivial tasks, so leave some time for them.
 
 ## Assignments
 
-For the first 4-5 weeks of the course, we will have a weekly _programming
-assignment_. These will involve you writing a compiler according to some
+For the first 4-5 weeks of the course, we will have a few _programming
+assignments_. These will involve you writing a compiler according to some
 specification that we provide, and submitting on Gradescope. You'll get a mix of
-automated and manual feedback from us. For some assignments we may also do _peer
-review_, where your classmates give feedback on your work (and you give feedback
-to them).
+automated and manual feedback from us.
+
+The assignments are, roughly:
+
+1. Basic Compiler (variables and arithmetic)
+2. Functions Compiler (functions, conditionals, primitive datatypes)
+3. Peer Code Review of Functions Compiler
+4. Objects Compiler (classes)
 
 ## Projects
 
-For the last 5-6 weeks of the course, you'll work on _projects_.
+For the last 5-6 weeks of the course, you'll work on _projects_. More about
+these will be announced as they get closer, but:
 
+- You'll work in groups, and we'll give you some choice in who you work
+with, so keep that in mind as you meet folks in the class.
+- You will have an _individual_ assessment related to the project where you'll
+do some addition to the project independent of your group members. This
+constitutes your **final exam/comprehensive assessment** for the course, and
+will be a mix of a report/code and an oral exam.
+- The projects will involve large-scale collaboration, potentially _across
+groups_, to build an interesting and more full-featured compiler.
+- There will be several checkpoints to keep you on track and give feedback on
+your project progress.
 
+## Grades
+
+We will turn your scores from the above items into a letter grade.
+
+- You have to do all the quizzes, and eventually get all the questions right on
+all but one, to get an A. You can work on them after the deadlines to get to
+this point. If you have more than one quiz where you don't eventually get all
+the answers right, your grade is capped at a B. Think of this as 10-15% of your
+grade.
+- Class participation doesn't count towards your grade, but you have to come to
+8 classes (as described above) to pass the class.
+- The assignments in the first half of the class are graded holistically, and
+excellent performance on later assignments can make up for missed credit on
+earlier ones. Think of this as around 25-30% of your grade. Rubrics for individual
+assignments will be included on those assignments.
+- Your team has to participate in the project and do quality work for each
+milestone to get an A; individual milestones will have clear rubrics. Think of
+the group project part as another roughly 30% of your grade.
+- Your individual assessment at the end of the quarter is how you demonstrate to
+us that you've understood the work your group has done, and that you've
+generally mastered the material in the course. Think of this as the remaining
+30% of your grade.
+
+You have to complete all of the assignments, the project, and the individual
+assessment to pass the course (don't skip any). In general, always submit
+something on time; don't try to submit work late. Trust that the next assignment
+in sequence will have structure for recovering.
 
 </div>
