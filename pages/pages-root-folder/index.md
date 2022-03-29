@@ -34,6 +34,12 @@ title: "Advanced Compiler Design (UCSD CSE231)"
 - Kamran Alipour
 - Vignesh Gokul
 
+## Basics
+
+- Lectures: Tue/Thu, 11-12:30, Center 214
+- Assignment submission/grades: [https://www.gradescope.com/courses/222971](https://www.gradescope.com/courses/222971)
+- Piazza: [https://piazza.com/class/l19qaxisql23rt](https://piazza.com/class/l19qaxisql23rt)
+
 ## Material and Schedule
 
 <ul class="material">
