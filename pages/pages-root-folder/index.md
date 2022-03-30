@@ -31,7 +31,7 @@ title: "Advanced Compiler Design (UCSD CSE231)"
 **Staff**:
 
 - Yousef Alhessi
-- Kamran Alipour
+- Kamran Alipour - <code>kalipour@eng.ucsd.edu</code> -  [kamranalipour.github.io](https://kamranalipour.github.io/)
 - Vignesh Gokul
 
 ## Basics
