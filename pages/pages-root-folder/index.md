@@ -30,7 +30,7 @@ title: "Advanced Compiler Design (UCSD CSE231)"
 
 **Staff**:
 
-- Yousef Alhessi
+- Yousef Alhessi - <code>yalhessi@eng.ucsd.edu</code> -  [yalhessi.github.io](https://yalhessi.github.io/)
 - Kamran Alipour - <code>kalipour@eng.ucsd.edu</code> -  [kamranalipour.github.io](https://kamranalipour.github.io/)
 - Vignesh Gokul
 
